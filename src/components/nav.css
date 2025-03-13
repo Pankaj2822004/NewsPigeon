@@ -1,0 +1,10 @@
+.d-flex{
+display: flex;
+margin: 41px 8px 38px 18px;
+}
+.navbar .btn.btn-outline-success:hover {
+    background-color: rgb(107, 231, 113) !important;
+    color: black !important;
+    border: 3px solid rgb(21, 18, 219) !important;
+  }
+
